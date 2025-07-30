@@ -1,1 +1,1 @@
-# soc_Design_and_planning_NASSCOM_VSD
+# SOC_Design_and_planning_NASSCOM_VSD
