@@ -3,9 +3,16 @@
 
 #### The synthesis of a design picorv32a is processed in this step, a design with a default time period of 20ns and some sdc constraints, a verilog RTL, a clock port as shown as below:
 
-Section 1 tasks:- 
-1. Run 'picorv32a' design synthesis using OpenLANE flow and generate necessary outputs.
-2. Calculate the flop ratio.
+DAY 1 :- 
+1) Visiting all the directories for basic understanding of the files
+2) Synthesis Flow of the design "picorv32a"
+3) 
+
+INFO :
+1) LEF'S are merged during synthesis flow (TECH LEF and STD LEF)
+2) We can make our own version of CONFIG.tcl for unique clock constraints
+3) Runs directory is created with tmp, results, reports folders
+4) Logs file mention all the steps occured in the flow
 
 ```math
 Flop\ Ratio = \frac{Number\ of\ D\ Flip\ Flops}{Total\ Number\ of\ Cells}
@@ -49,8 +56,13 @@ exit
 exit
 ```
 
-Screenshots of running each commands
+Results 
 
 ![1](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/d19f6d0f-16f8-4e79-aa5a-f2a34b9fb203)
-![2](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/5e03c8ca-8c7f-4579-a7bc-10161007910e)
-![3](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/5f196a31-059e-4192-a208-8a15ba1a0dd7)
+
+
+#### Summary
+1) The final result shows "synthesis is done" in the terminal.
+2) Openlane allows to make changes on the run
+3) GITHUB repo of openlane is viewed and understood
+4) 
