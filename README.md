@@ -24,7 +24,7 @@ so flop ratio is 1613/14876 * 100 = 10.84 %
 
 * All section 1 logs, reports and results can be found in following run folder:
 
-[Section 1 Run - 15-03_15-51](https://drive.google.com/file/d/1Be5T9Z0SsT0eHPfNZKv3csnGbdd7dQjv/view?usp=sharing)
+[Section 1 Run](https://drive.google.com/file/d/1Be5T9Z0SsT0eHPfNZKv3csnGbdd7dQjv/view?usp=sharing)
 
 #### 1. Run 'picorv32a' design synthesis using OpenLANE flow and generate necessary outputs.
 
