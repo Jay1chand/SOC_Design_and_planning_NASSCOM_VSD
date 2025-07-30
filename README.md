@@ -66,4 +66,3 @@ Results
 1) The final result shows "synthesis is done" in the terminal.
 2) Openlane allows to make changes on the run
 3) GITHUB repo of openlane is viewed and understood
-4) 
