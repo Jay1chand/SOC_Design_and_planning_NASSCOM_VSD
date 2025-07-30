@@ -6,7 +6,7 @@
 DAY 1 :- 
 1) Visiting all the directories for basic understanding of the files
 2) Synthesis Flow of the design "picorv32a"
-3) 
+3) Calculate the flop ratio
 
 INFO :
 1) LEF'S are merged during synthesis flow (TECH LEF and STD LEF)
@@ -18,12 +18,13 @@ INFO :
 Flop\ Ratio = \frac{Number\ of\ D\ Flip\ Flops}{Total\ Number\ of\ Cells}
 ```
 ```math
-Percentage\ of\ DFF's = Flop\ Ratio * 100
+Percentage\ of\ DFF's = Flop\ Ratio * 100 
 ```
+so flop ratio is 1613/14876 * 100 = 10.84 %
 
 * All section 1 logs, reports and results can be found in following run folder:
 
-[Section 1 Run - 15-03_15-51](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/tree/main/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/15-03_15-51)
+[Section 1 Run - 15-03_15-51]([https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/tree/main/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/15-03_15-51](https://drive.google.com/file/d/1Be5T9Z0SsT0eHPfNZKv3csnGbdd7dQjv/view?usp=sharing))
 
 #### 1. Run 'picorv32a' design synthesis using OpenLANE flow and generate necessary outputs.
 
@@ -58,7 +59,7 @@ exit
 
 Results 
 
-![1](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/d19f6d0f-16f8-4e79-aa5a-f2a34b9fb203)
+![1](https://github.com/Jay1chand/SOC_Design_and_planning_NASSCOM_VSD/blob/main/Screenshot%202025-07-30%20162523.png)
 
 
 #### Summary
