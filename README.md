@@ -210,3 +210,29 @@ exit
 # Exit from OpenLANE flow docker sub-system
 exit
 ```
+
+[Section 2 Run](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/tree/main/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-03_12-06)
+
+### summary
+1)completed floorplanning and placement according to requirements
+2)optimized placement during run automatically matching signal integrity and timing constraints.
+
+## DAY 4 - Design library cell using Magic Layout and ngspice characterization:- 
+
+### Theory
+
+### Implementation
+
+* Section 3 tasks:-
+1. Clone custom inverter standard cell design from github repository: [Standard cell design and characterization using OpenLANE flow](https://github.com/nickson-jose/vsdstdcelldesign).
+2. Load the custom inverter layout in magic and explore.
+3. Spice extraction of inverter in magic.
+4. Editing the spice model file for analysis through simulation.
+5. Post-layout ngspice simulations.
+6. Find problem in the DRC section of the old magic tech file for the skywater process and fix them.
+
+
+
+
+
+
