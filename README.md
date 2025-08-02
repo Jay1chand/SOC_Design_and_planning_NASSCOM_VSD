@@ -116,6 +116,6 @@ run_floorplan
 
 Screenshot of floorplan run
 
-![Screenshot synthesis](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/7deda325-2ae8-4e98-aa71-7a54f5c34fcb)
-![Screenshot floorplan](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/c1fe538f-c58f-46b9-9466-b0873a88eb6c)
+![Screenshot synthesis](https://github.com/Jay1chand/SOC_Design_and_planning_NASSCOM_VSD/blob/main/Screenshot%202025-08-02%20105859.png)
+![Screenshot floorplan](https://github.com/Jay1chand/SOC_Design_and_planning_NASSCOM_VSD/blob/main/Screenshot%202025-08-02%20110003.png)
 
